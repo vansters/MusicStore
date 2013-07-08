@@ -1,5 +1,5 @@
-# Laravel Application Example
-**Example of using Laravel Framework Laravel for Galletitas S.A.de C.V. Project.**
+# MusicStore (Java Sockets)
+**Implementacion de sockets java**
 
 ## <a name='TOC'>Table of Contents</a>
 
@@ -10,7 +10,7 @@
 
 ## <a name='intro'>Introduction</a>
 
-This is a medium difficulty project, Laravel 3 (now migrating Laravel this April with their improvements) is the backbone of proyetco, The purpose of this is to learn the basics of PHP5 + Laravel + MySQL.
+Simple application written in Java to demonstrate the use of Sockets
 
 ## <a name='screenshots'>Screenshots</a>
 
